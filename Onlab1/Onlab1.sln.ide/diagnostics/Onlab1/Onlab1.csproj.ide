@@ -1,0 +1,16 @@
+﻿<Project Format="0.0.0.3">
+  <Version>2013-10-02T17:15:36.6178302Z</Version>
+  <Binding>True</Binding>
+  <Diagnostic>
+    <Code>108</Code>
+    <Id>CS0108</Id>
+    <Severity>Warning</Severity>
+    <Message>'Onlab1.inputform.CancelButton' hides inherited member 'System.Windows.Forms.Form.CancelButton'. Use the new keyword if hiding was intended.</Message>
+    <MappedFile>C:\Users\Rendszergazda\Documents\Visual Studio 2012\Projects\Onlab1\Onlab1\inputform.Designer.cs</MappedFile>
+    <MappedLine>102</MappedLine>
+    <MappedColumn>44</MappedColumn>
+    <OriginalFile>C:\Users\Rendszergazda\Documents\Visual Studio 2012\Projects\Onlab1\Onlab1\inputform.Designer.cs</OriginalFile>
+    <OriginalLine>102</OriginalLine>
+    <OriginalColumn>44</OriginalColumn>
+  </Diagnostic>
+</Project>

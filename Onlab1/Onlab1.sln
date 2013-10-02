@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Onlab1", "Onlab1\Onlab1.csproj", "{54C786E5-FD14-4036-92AE-E9F25B71534B}"
+	ProjectSection(ProjectDependencies) = postProject
+		{1F8F2537-EC76-4537-9B70-6864F1604061} = {1F8F2537-EC76-4537-9B70-6864F1604061}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeRefactoring1", "CodeRefactoring1\CodeRefactoring1.csproj", "{1F8F2537-EC76-4537-9B70-6864F1604061}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{54C786E5-FD14-4036-92AE-E9F25B71534B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{54C786E5-FD14-4036-92AE-E9F25B71534B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{54C786E5-FD14-4036-92AE-E9F25B71534B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{54C786E5-FD14-4036-92AE-E9F25B71534B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1F8F2537-EC76-4537-9B70-6864F1604061}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F8F2537-EC76-4537-9B70-6864F1604061}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F8F2537-EC76-4537-9B70-6864F1604061}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F8F2537-EC76-4537-9B70-6864F1604061}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Vsix Version="1.0.0" xmlns="http://schemas.microsoft.com/developer/vsx-schema/2010">
+  <Identifier Id="CodeRefactoring1..3b0eb8c4-98c0-421c-9a62-af763a34f05a">
+    <Name>CodeRefactoring1</Name>
+    <Author>this guy</Author>
+    <Version>1.0</Version>
+    <Description xml:space="preserve">This is a sample code refactoring extension for the Microsoft Roslyn CTP.</Description>
+    <Locale>1033</Locale>
+    <SupportedProducts>
+      <VisualStudio Version="11.0">
+        <Edition>Ultimate</Edition>
+        <Edition>Premium</Edition>
+        <Edition>Pro</Edition>
+      </VisualStudio>
+    </SupportedProducts>
+    <SupportedFrameworkRuntimeEdition MinVersion="4.5" MaxVersion="4.5" />
+  </Identifier>
+  <References>
+    <!--Add References here-->
+  </References>
+
+  <Content>
+    <MefComponent>|%CurrentProject%|</MefComponent>
+  </Content>
+
+</Vsix>
