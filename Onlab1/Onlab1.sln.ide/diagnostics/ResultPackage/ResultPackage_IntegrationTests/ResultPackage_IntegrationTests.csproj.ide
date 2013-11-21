@@ -1,0 +1,52 @@
+﻿<Project Format="0.0.0.3">
+  <Version>2013-10-14T02:32:07.1194448Z</Version>
+  <Binding>True</Binding>
+  <Diagnostic>
+    <Code>1570</Code>
+    <Id>CS1570</Id>
+    <Severity>Warning</Severity>
+    <Message>XML comment has badly formed XML -- 'The character(s) '' cannot be used at this location.'</Message>
+    <MappedFile>C:\Users\Rendszergazda\Documents\Visual Studio 2012\Projects\Onlab1\ResultPackage\ResultPackage_IntegrationTests\IntegrationTest Library\DialogboxPurger.cs</MappedFile>
+    <MappedLine>117</MappedLine>
+    <MappedColumn>0</MappedColumn>
+    <OriginalFile>C:\Users\Rendszergazda\Documents\Visual Studio 2012\Projects\Onlab1\ResultPackage\ResultPackage_IntegrationTests\IntegrationTest Library\DialogboxPurger.cs</OriginalFile>
+    <OriginalLine>117</OriginalLine>
+    <OriginalColumn>0</OriginalColumn>
+  </Diagnostic>
+  <Diagnostic>
+    <Code>1570</Code>
+    <Id>CS1570</Id>
+    <Severity>Warning</Severity>
+    <Message>XML comment has badly formed XML -- 'End tag '' does not match the start tag 'summary'.'</Message>
+    <MappedFile>C:\Users\Rendszergazda\Documents\Visual Studio 2012\Projects\Onlab1\ResultPackage\ResultPackage_IntegrationTests\IntegrationTest Library\DialogboxPurger.cs</MappedFile>
+    <MappedLine>117</MappedLine>
+    <MappedColumn>0</MappedColumn>
+    <OriginalFile>C:\Users\Rendszergazda\Documents\Visual Studio 2012\Projects\Onlab1\ResultPackage\ResultPackage_IntegrationTests\IntegrationTest Library\DialogboxPurger.cs</OriginalFile>
+    <OriginalLine>117</OriginalLine>
+    <OriginalColumn>0</OriginalColumn>
+  </Diagnostic>
+  <Diagnostic>
+    <Code>1570</Code>
+    <Id>CS1570</Id>
+    <Severity>Warning</Severity>
+    <Message>XML comment has badly formed XML -- 'A name was started with an invalid character.'</Message>
+    <MappedFile>C:\Users\Rendszergazda\Documents\Visual Studio 2012\Projects\Onlab1\ResultPackage\ResultPackage_IntegrationTests\IntegrationTest Library\DialogboxPurger.cs</MappedFile>
+    <MappedLine>117</MappedLine>
+    <MappedColumn>0</MappedColumn>
+    <OriginalFile>C:\Users\Rendszergazda\Documents\Visual Studio 2012\Projects\Onlab1\ResultPackage\ResultPackage_IntegrationTests\IntegrationTest Library\DialogboxPurger.cs</OriginalFile>
+    <OriginalLine>117</OriginalLine>
+    <OriginalColumn>0</OriginalColumn>
+  </Diagnostic>
+  <Diagnostic>
+    <Code>1570</Code>
+    <Id>CS1570</Id>
+    <Severity>Warning</Severity>
+    <Message>XML comment has badly formed XML -- 'The character(s) '' cannot be used at this location.'</Message>
+    <MappedFile>C:\Users\Rendszergazda\Documents\Visual Studio 2012\Projects\Onlab1\ResultPackage\ResultPackage_IntegrationTests\IntegrationTest Library\DialogboxPurger.cs</MappedFile>
+    <MappedLine>117</MappedLine>
+    <MappedColumn>0</MappedColumn>
+    <OriginalFile>C:\Users\Rendszergazda\Documents\Visual Studio 2012\Projects\Onlab1\ResultPackage\ResultPackage_IntegrationTests\IntegrationTest Library\DialogboxPurger.cs</OriginalFile>
+    <OriginalLine>117</OriginalLine>
+    <OriginalColumn>0</OriginalColumn>
+  </Diagnostic>
+</Project>

@@ -41,6 +41,9 @@
     <RootNamespace>Onlab1</RootNamespace>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="AutocompleteMenu">
+      <HintPath>..\..\..\Addins\AutocompleteMenu.dll</HintPath>
+    </Reference>
     <Reference Include="Extensibility, Version=7.0.3300.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
       <EmbedInteropTypes>False</EmbedInteropTypes>
     </Reference>
@@ -67,6 +70,25 @@
     </Compile>
     <Compile Include="inputform.Designer.cs">
       <DependentUpon>inputform.cs</DependentUpon>
+    </Compile>
+    <Compile Include="RefControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="RefControl.Designer.cs">
+      <DependentUpon>RefControl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SearchControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="SearchControl.Designer.cs">
+      <DependentUpon>SearchControl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="StaticMethods.cs" />
+    <Compile Include="RenameControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="RenameControl.Designer.cs">
+      <DependentUpon>RenameControl.cs</DependentUpon>
     </Compile>
   </ItemGroup>
   <ItemGroup>
@@ -140,6 +162,17 @@
       <Project>{1f8f2537-ec76-4537-9b70-6864f1604061}</Project>
       <Name>CodeRefactoring1</Name>
     </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="RefControl.resx">
+      <DependentUpon>RefControl.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RenameControl.resx">
+      <DependentUpon>RenameControl.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SearchControl.resx">
+      <DependentUpon>SearchControl.cs</DependentUpon>
+    </EmbeddedResource>
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSHARP.Targets" />
   <PropertyGroup>

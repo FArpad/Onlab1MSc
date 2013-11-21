@@ -90,6 +90,7 @@
     <Compile Include="Collapse.cs" />
     <Compile Include="Refactor.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="StaticMethods.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="source.extension.vsixmanifest">
